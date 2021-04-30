@@ -29,5 +29,3 @@ phases:
 artifacts:
   files:
    - imagedefinitions.json
-   - target/HW-service.jar
-
